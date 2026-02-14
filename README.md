@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @hasarangadinuj
+- 👋 Hi, I’m Hasaranga Dinujaya, I'm Computer Science and Engineering undergraduate from University of Moratuwa
 - 👀 I’m interested in drawing and creative activities.
-- 🌱 I’m currently learning computer science and engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on creative and innovative projects
+- 📫 How to reach me: hasarangadinuj@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ....
 
 <!---
 hasarangadinuj/hasarangadinuj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
